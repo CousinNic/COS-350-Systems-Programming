@@ -1,0 +1,20 @@
+
+NAME 
+    scroll - a tool for viewing files
+
+SYNOPSIS
+    scroll [filename]
+
+DESCRIPTION
+    the scroll function creates an easy way to view .txt files
+    either by page, or to scroll through at a set pace.
+
+USE
+    controls: SPACE- pan through pages
+              ENTER- toggle scroll on/off
+              F key- increase scroll speed
+              S key- decrease scroll speed
+              q key- quit program
+
+AUTHOR
+    Nicholas Drummey
